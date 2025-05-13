@@ -33,7 +33,7 @@ We conducted two rounds of field studies, and the table below presents the basic
 | P26_r2      | Female     | 23      | Master's      | Studying       | OPPO      | 23      | 375      |
 | P27_r2      | Male       | 22      | Bachelor's    | Studying       | Redmi     | 19      | 247      |
 | P28_r2      | Female     | 20      | Bachelor's    | Studying       | IQOO      | 7       | 28       |
-| P29_r2      | Male       | 27      | Doctoral      | Working        | Redmi     | 3       | 9        |
+| P29_r2      | Male       | 30      | Doctoral      | Working        | Redmi     | 3       | 9        |
 | P30_r2      | Female     | 48      | Bachelor's    | Working        | XiaoMi    | 28      | 116      |
 | P31_r2      | Male       | 24      | Bachelor's    | Studying       | Honor     | 10      | 49       |
 | P32_r2      | Male       | 55      | Bachelor's    | Working        | HuaWei    | 30      | 293      |
