@@ -1,4 +1,4 @@
-# Focused Attention
+# AttenTrack——user attention states collected via smartphones in real-world mobile settings
 This dataset is used to study users' focused attention states and notification handling preferences.
 Our dataset contains a total of 9,008 entries, including data from 35 users. 
 We conducted two rounds of field studies, and the table below presents the basic information of all data collection participants, as well as the number of days they participated in the study and the amount of data they provided.
